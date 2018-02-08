@@ -1,0 +1,13 @@
+{
+  "name": "discord-nodebot",
+  "version": "0.1.0",
+  "description": "A Discord bot written in Javascript running on NodeJS for the HINGDATA16HA group on OsloMet Discord server",
+  "main": "index.js",
+  "repository": "https://github.com/hingdata16ha/discord-nodebot.git",
+  "author": "Victor Nascimento Bakke <gipphe@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
